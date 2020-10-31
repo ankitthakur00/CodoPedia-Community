@@ -13,7 +13,7 @@ Munna Bhaiya and Guddu Bhaiya can complete work in 48 days. Munna Bhaiya alone c
 3. 72
 4. 36
 
-{% hint style="info" %}
+{% hint style="success" %}
 Ans : 72 Days
 {% endhint %}
 
@@ -26,7 +26,7 @@ In an operating system, which of the following is CPU bound process. 1. Interact
 3. Sorting a million entry array  
 4. None of the above$ give me super-powers
 
-{% hint style="info" %}
+{% hint style="success" %}
  Ans:  Sorting a million entry array
 {% endhint %}
 
