@@ -1,2 +1,2 @@
-# Day2 L Tasks
+# Day 2 : Tasks
 
