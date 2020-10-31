@@ -16,7 +16,15 @@ Dimpy scored the following marks in 5 different subjects 86, 95, 94, 88, 80. If 
 
 ## Technical MCQ
 
+{% hint style="danger" %}
+Will be added soon
+{% endhint %}
+
 ## Coding Question
+
+{% hint style="danger" %}
+Will be added soon
+{% endhint %}
 
 
 
