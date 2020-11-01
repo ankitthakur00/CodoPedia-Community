@@ -8,61 +8,19 @@ An initiative by a group of people from different NITs to make the placement sea
 
 Join the **CodoPedia** Community
 
-## 🤝 Meet the Team
+## RoadMap
 
-{% tabs %}
-{% tab title="Member1" %}
-## Ankit Thakur 
-
-NIT Surathkal
-
-💻 **Github:** /[ankitthakur00](https://github.com/ankitthakur00)
-
-\*\*\*\*👥 **LinkedIn:**[ ****/in/ankitthakur00](https://www.linkedin.com/in/ankitthakur00/)
-{% endtab %}
-
-{% tab title="Member2" %}
-## Sahil Kausik 
-
-NIT Jamshedpur
-
-💻 **Github:** [/sknitjsr](https://github.com/sknitjsr)
-
-\*\*\*\*👥 **LinkedIn:** [/in/sahilk98/](https://www.linkedin.com/in/sahilk98/)
-{% endtab %}
-
-{% tab title="Member3" %}
-## Arpit Jain
-
-NIT Surathkal
-
-💻 **Github:**[ ****/basu13](https://github.com/basu13)
-
-\*\*\*\*👥 **LinkedIn:** [/in/basu13](https://www.linkedin.com/in/basu13/)
-{% endtab %}
-
-{% tab title="Member4" %}
-## Tushar Gupta
-
-NIT Calicut
-
-💻 **Github:** /[tusharg1997](https://github.com/tusharg1997)
-
-\*\*\*\*👥 **LinkedIn:** [/in/tushar-gupta](https://www.linkedin.com/in/tushar-gupta-b7232a67/)
-{% endtab %}
-
-{% tab title="Member5" %}
-## Jatin Mehta
-
-NIT Surathkal
-
-💻 **Github:** /
-
-\*\*\*\*👥 **LinkedIn:** [/in/jatinmehta97](https://www.linkedin.com/in/jatinmehta97/)
-{% endtab %}
-{% endtabs %}
+* We post questions throughout the day on the telegram channel.
+* These questions are the most recent ones asked by companies in this season.
+* We post solutions to them hereafter at 9 P.M each day.
 
 
 
+## What are we doing? 
 
+There are thousands of questions, hundreds of coding platforms, and millions of resources on the net. We are not one among all of those. We are just providing selected content from selected resources to make you selected for your dream company. We prefer smart work over hard work.
+
+
+
+#### 
 
