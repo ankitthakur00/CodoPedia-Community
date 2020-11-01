@@ -1,77 +1,68 @@
 ---
-description: 'Date : 30 October 2020'
+description: A geek in need is a geek indeed.
 ---
 
-# Day 1: Tasks
+# CodoPedia
 
-## Aptitude
+An initiative by a group of people from different NITs to make the placement season more transparent. Our vision is clear, to make our people more knowledgeable and placement ready.
 
-Munna Bhaiya and Guddu Bhaiya can complete work in 48 days. Munna Bhaiya alone can complete in 64 days. Munna Bhaiya and Guddu Bhaiya worked together for 30 days. In how many days Guddu Bhaiya alone can complete the remaining work.
+Join the **CodoPedia** Community
 
-1. 64
-2. 24
-3. 72
-4. 36
+## 🤝 Meet the Team
 
-{% hint style="success" %}
-Ans : 72 Days
-{% endhint %}
+{% tabs %}
+{% tab title="Member1" %}
+## Ankit Thakur 
 
-## Technical MCQ
+NIT Surathkal
 
-In an operating system, which of the following is CPU bound process. 1. Interactive shell 2. File Transfer 3. Sorting a million entry array 4. None of the above
+💻 **Github:** /[ankitthakur00](https://github.com/ankitthakur00)
 
-1. Interactive shell 
-2. File Transfer 
-3. Sorting a million entry array  
-4. None of the above$ give me super-powers
+\*\*\*\*👥 **LinkedIn:**[ ****/in/ankitthakur00](https://www.linkedin.com/in/ankitthakur00/)
+{% endtab %}
 
-{% hint style="success" %}
- Ans:  Sorting a million entry array
-{% endhint %}
+{% tab title="Member2" %}
+## Sahil Kausik 
 
-## Coding Question
+NIT Jamshedpur
 
-The i-th person has weight people\[i\], and each boat can carry a maximum weight of limit.
+💻 **Github:** [/sknitjsr](https://github.com/sknitjsr)
 
-Each boat carries at most 2 people at the same time, provided the sum of the weight of those people is at most limit.
+\*\*\*\*👥 **LinkedIn:** [/in/sahilk98/](https://www.linkedin.com/in/sahilk98/)
+{% endtab %}
 
-Return the minimum number of boats to carry every given person. \(It is guaranteed each person can be carried by a boat.\)
+{% tab title="Member3" %}
+## Arpit Jain
 
-**Input:**
+NIT Surathkal
 
-```text
-[3,2,2,1]  limit=3
-```
+💻 **Github:**[ ****/basu13](https://github.com/basu13)
 
-**Output:**
+\*\*\*\*👥 **LinkedIn:** [/in/basu13](https://www.linkedin.com/in/basu13/)
+{% endtab %}
 
-```text
-3
-```
+{% tab title="Member4" %}
+## Tushar Gupta
 
-* Try to solve in O\(nlogn\).
+NIT Calicut
 
-**Solution:**
+💻 **Github:** /[tusharg1997](https://github.com/tusharg1997)
 
-```cpp
-int numRescueBoats(vector<int>& p, int limit) {       
-sort(p.begin(),p.end());
-        int count=0;
-        int i=0,j=p.size()-1;
-        while(i<=j)
-        {
-            if(p[i]+p[j]<=limit)
-            {
-                i++;j--;
-            }
-            else
-                j--;
-            count++;
-        }
-        if(i==j)
-            count++;
-        return count;
-    }
-```
+\*\*\*\*👥 **LinkedIn:** [/in/tushar-gupta](https://www.linkedin.com/in/tushar-gupta-b7232a67/)
+{% endtab %}
+
+{% tab title="Member5" %}
+## Jatin Mehta
+
+NIT Surathkal
+
+💻 **Github:** /
+
+\*\*\*\*👥 **LinkedIn:** [/in/jatinmehta97](https://www.linkedin.com/in/jatinmehta97/)
+{% endtab %}
+{% endtabs %}
+
+
+
+
 
