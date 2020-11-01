@@ -8,6 +8,10 @@
 * [Day 2 : Tasks](daily-tasks/day2-l-tasks.md)
 * [Day 3: Tasks](daily-tasks/day-3-tasks.md)
 
+## Blog
+
+* [The Art of Resume Building](blog/the-art-of-resume-building.md)
+
 ---
 
 * [Join the Community](http://t.me/codopedia)
