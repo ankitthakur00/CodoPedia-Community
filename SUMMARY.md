@@ -7,6 +7,7 @@
 * [Day 1: Tasks](daily-tasks/day-1-tasks.md)
 * [Day 2 : Tasks](daily-tasks/day2-l-tasks.md)
 * [Day 3: Tasks](daily-tasks/day-3-tasks.md)
+* [Day 4: Tasks](daily-tasks/day-4-tasks.md)
 
 ## Blog
 
