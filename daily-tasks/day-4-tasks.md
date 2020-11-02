@@ -14,7 +14,7 @@ You have 12 balls identical in every way except that one of them weighs slightly
 4. 6
 
 {% hint style="success" %}
-Ans : 3
+**Ans** : 3
 
 Steps to find the lightest ball:
 
@@ -36,7 +36,7 @@ In SQL which of the following is used to improve the query performance.
 4. Batches
 
 {% hint style="success" %}
-
+**Ans** : Views
 {% endhint %}
 
 ## Coding Question
