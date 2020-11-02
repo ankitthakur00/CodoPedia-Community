@@ -1,5 +1,5 @@
 ---
-description: 'Asked in Google, Facebook, Amazon, Udaan, Nutanix, Netflix'
+description: 'Asked in Google, Facebook, Amazon, Udaan, Nutanix, Netflix, American Express'
 ---
 
 # Tricky Puzzle \(12 Balls\)
