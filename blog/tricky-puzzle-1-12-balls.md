@@ -1,5 +1,5 @@
 ---
-description: 'Asked in Google, Facebook, Amazon, Udaan, Nautanix, Netflix'
+description: 'Asked in Google, Facebook, Amazon, Udaan, Nutanix, Netflix'
 ---
 
 # Tricky Puzzle \(12 Balls\)
@@ -8,11 +8,7 @@ description: 'Asked in Google, Facebook, Amazon, Udaan, Nautanix, Netflix'
 
 You have 12 balls identical in every way except that one of them weighs slightly less or more. You have a balance scale. Find the Minimum number of comparisons to find the defected ball.
 
-{% hint style="success" %}
-Answer - 3
-{% endhint %}
-
-## Explanation
+## Solution Approach
 
 Let us number our balls from 1 to 12, so we have {1,2,3,4,5,6,7,8,9,10,11,12}. Divide these balls into three Groups:  
 G1 = {1,2,3,4}  
@@ -103,7 +99,9 @@ _Weigh ball {1} and ball {9} if equal answer is ball {7} else answer is a ball w
 {% endtab %}
 {% endtabs %}
 
-
+{% hint style="success" %}
+Answer = 3
+{% endhint %}
 
 ### Author's Note
 
