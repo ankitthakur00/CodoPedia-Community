@@ -11,7 +11,7 @@
 
 ## Blog
 
-* [Tricky Puzzle - 1\(12 Balls\)](blog/tricky-puzzle-1-12-balls.md)
+* [Tricky Puzzle \(12 Balls\)](blog/tricky-puzzle-1-12-balls.md)
 * [The Art of Resume Building](blog/the-art-of-resume-building.md)
 
 ---

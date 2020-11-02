@@ -2,7 +2,7 @@
 description: 'Asked in Google, Facebook, Amazon, Udaan, Nautanix, Netflix'
 ---
 
-# Tricky Puzzle - 1\(12 Balls\)
+# Tricky Puzzle \(12 Balls\)
 
 ## Problem Statment
 
