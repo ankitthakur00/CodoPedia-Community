@@ -15,16 +15,9 @@ You have 12 balls identical in every way except that one of them weighs slightly
 
 {% hint style="success" %}
 **Ans** : 3
-
-Steps to find the lightest ball:
-
-* 3 groups of 4 balls each
-* Weigh any two groups if one side goes up then the light ball is in that set if the both stay equal then the light ball is in the third set
-* take the set with the light ball and divide it into groups of 2.
-* weigh them again the set with the lighter ball will go up.
-* now take the set with the lighter ball and divide it into 2 groups of 1 ball each
-* weight the two ball the lighter one will go up
 {% endhint %}
+
+
 
 ## Technical MCQ
 
