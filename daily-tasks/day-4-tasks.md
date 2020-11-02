@@ -36,7 +36,8 @@ In SQL which of the following is used to improve the query performance.
 4. Batches
 
 {% hint style="success" %}
-**Ans** : Views
+**Ans**: Views  
+A SQL View is a virtual table backed by a SQL query. It carries much of the same functionality that a table has, but it's backed by a query, rather than a table in the database, and depending on how you have it set up, can pull in a wide variety of data.  
 {% endhint %}
 
 ## Coding Question
