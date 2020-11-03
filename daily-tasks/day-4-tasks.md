@@ -17,6 +17,8 @@ You have 12 balls identical in every way except that one of them weighs slightly
 **Ans** : 3
 {% endhint %}
 
+{% page-ref page="../blog/tricky-puzzle-1-12-balls.md" %}
+
 
 
 ## Technical MCQ
