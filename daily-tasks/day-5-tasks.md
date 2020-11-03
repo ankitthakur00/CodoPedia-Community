@@ -23,7 +23,7 @@ Number of cubes with 0 side painted= \(n-2\)³
 
 Number of cubes with 1 side painted =6\(n - 2\)²
 
-Number of cubes with 2 sides painted= 12\(n-2\)
+umber of cubes with 2 sides painted= 12\(n-2\)
 
 Number of cubes with 3 sides painted= 8\(always\)  
 {% endhint %}
@@ -44,7 +44,7 @@ so, the array would be
 \[ 5 3 7 2 4 6 8 1\]
 {% endhint %}
 
-![AVL Tree for given Array](../.gitbook/assets/untitled-diagram.png)
+![AVL Tree for given array](../.gitbook/assets/untitled-diagram%20%281%29.png)
 
 ## Coding 
 
