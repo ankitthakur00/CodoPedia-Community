@@ -44,7 +44,9 @@ so, the array would be
 \[ 5 3 7 2 4 6 8 1\]
 {% endhint %}
 
-## Coding
+![AVL Tree for given Array](../.gitbook/assets/untitled-diagram.png)
+
+## Coding 
 
 At a lemonade stand, each lemonade costs $5. 
 
