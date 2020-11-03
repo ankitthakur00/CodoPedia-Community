@@ -2,7 +2,7 @@
 description: 'Date : 3 November 2020'
 ---
 
-# Day 5: Tasks
+# Day 6: Tasks
 
 ## Aptitude
 
