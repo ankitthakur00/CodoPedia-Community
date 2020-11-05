@@ -27,7 +27,23 @@ Sort the given elements in ascending order using selection sort: 10 3 4 1 9 12 1
 4. 12
 
 {% hint style="success" %}
+**Ans:** 4 and 10
 
+3rd Pass of selection sort will be:
+
+ 1 3 4 10 9 12 18 
+
+There will be 2 ways to create a heap
+
+ a\) We will insert elements from the start in the heap 
+
+b\)We will insert elements from the end in the heap
+
+Child nodes of 12 in case 1 are: 3 and 10 Child nodes of 12 in case 2 are: 4 and 10
+
+4 and 10 matches one of the answers given.
+
+**Note:** In online rounds of big companies like GS they mostly doesn't specify things so we have to take all possibilities and check whether we are getting answers from the given options or not. That's why here we have taken 2 possibilities.
 {% endhint %}
 
 ## Coding Question
