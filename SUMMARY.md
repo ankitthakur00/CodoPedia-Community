@@ -10,6 +10,7 @@
 * [Day 4: Tasks](daily-tasks/day-4-tasks.md)
 * [Day 5: Tasks](daily-tasks/day-5-tasks.md)
 * [Day 6: Tasks](daily-tasks/day-6-tasks.md)
+* [Day 7: Tasks](daily-tasks/day-7-tasks.md)
 
 ## Blog
 
