@@ -51,6 +51,16 @@ You are given an array of integers. You have to start from the first index and r
 
 **`Try to Solve in o(n)`**
 
+{% hint style="info" %}
+**Explanation :** If we take +3 step from ith index then cost to reach \(i+3\)th index will be minimum of \(minimum cost to reach ith index + cost at \(i+3\)th index i.e a\[i+3\] , previous minimum cost to reach \(i+3\)th index\)
+
+From \(i+3\)th index we can move to \(i+2\)th index so cost to reach \(i+2\)th index will be minimum of \(minimum cost to reach \(i+3\)th index + cost at \(i+2\)th index i.e a\[i+2\] , previous minimum cost to reach \(i+2\)th index\)
+
+Similarly, from \(i+2\)th index we can go back to \(i+1\)th index
+
+We will not go back to ith index from \(i+1\)th index because that will not be the minimum to reach ith index
+{% endhint %}
+
 **Solution:**
 
 ```cpp
