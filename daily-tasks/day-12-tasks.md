@@ -6,7 +6,7 @@ description: 'Date : 10 November 2020'
 
 ## Aptitude
 
- In a group of cows and ducks, the number of legs is 24 more than twice the number of heads. What is the number of cows in the group? \]
+ In a group of cows and ducks, the number of legs is 24 more than twice the number of heads. What is the number of cows in the group? 
 
 * 8
 * 10
