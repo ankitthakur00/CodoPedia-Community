@@ -15,6 +15,7 @@
 * [Day 9 : Tasks](daily-tasks/day-9-tasks.md)
 * [Day 10 : Tasks](daily-tasks/day-10-tasks.md)
 * [Day 11 : Tasks](daily-tasks/day-11-tasks.md)
+* [Day 12 : Tasks](daily-tasks/day-12-tasks.md)
 
 ## Blog
 
