@@ -25,12 +25,16 @@ Therefore, required ratio =24:24=1:1
 
 ## Technical
 
-class technical{  
- public static void main\(String\[\] as\) {   
-long l=2147483649;  
-System.out.println\(l\);   
-}   
+What will be the output of the below code?
+
+```java
+class technical{
+ public static void main(String[] as) { 
+long l=2147483649;
+System.out.println(l); 
+} 
 }
+```
 
 1. Compilation Error
 2. Runtime Error
