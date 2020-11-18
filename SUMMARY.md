@@ -20,6 +20,7 @@
 * [Day 14 : Tasks](daily-tasks/day-14-tasks.md)
 * [Day 15 : Tasks](daily-tasks/day-15-tasks.md)
 * [Day 16 : Tasks](daily-tasks/day-16-tasks.md)
+* [Day 17 : Tasks](daily-tasks/day-17-tasks.md)
 
 ## Blog
 
