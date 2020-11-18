@@ -38,7 +38,23 @@ Given a heap with n elements that supports insert and extract-min, which of the 
 
 {% hint style="success" %}
 **Ans:** Finding the fifth-smallest element stored in the heap.
+
+`It's a min heap so,`
+
+ `1. Finding the median of the elements stored in the heap.` 
+
+**`Explanation :`** `For median we need to find middle elements so, total time will be O(nlogn)` 
+
+`2. Finding the largest element stored in the heap.` 
+
+**`Explaination :`** `Largest element will be the last element so total time needed will be O(nlogn)` 
+
+`3. Finding the fifth-smallest element stored in the heap.` 
+
+**`Explaination:`**`First smallest element can be found in O(1) then perform heapify which will take O(logn), so finding fifth smallest element will be O(4*logn) i.e, O(logn).`
 {% endhint %}
+
+
 
 ## Coding Question
 
@@ -63,21 +79,21 @@ Given a binary array, find the maximum length of a contiguous subarray with an e
 {% hint style="success" %}
 1. Starting from left of array and keep adding elements to a variable **sum**
 2. Add **-1 for 0** and **1 for 1**
-3. Now, everytime sum becomes zero, we know all the elements from begining of array have been neutralized , meaning we have got equal number of ones and zeroes, let this occurs at index i, so longestContArray = i+1 \(because we are dealing with indices\)
+3. Now, every time sum becomes zero, we know all the elements from begining of array have been neutralized, meaning we have got an equal number of ones and zeroes, let this occurs at index i, so longestContArray = i+1 \(because we are dealing with indices\)
 4. But we are not done yet!, consider the case : \[1,**1,0**,1,1\]
 
-* In this case sum will never become zero,
+* In this case, the sum will never become zero,
 * but there exists a subarray of length 2, having equal 0 & 1
-* let's see the value of sum at index : 1 and 3
+* let's see the value of sum at index: 1 and 3
 * Ohh!! sum = 2 for both indices
 * what does this mean???
 * **This means that if we get the same sum value for two indices i and j, then all the elements within the range \[i,j\) or \(i,j\] have been neutralized**
-* What datastructure can remember the sum and index
-* Ofcourse ! Map, so we use a map to store the sum and index values,
+* What data structure can remember the sum and index
+* Of course!  Map, so we use a map to store the sum and index values,
 * if sum == 0 then we have already solved the cases
-* but if sum!=0 and this sum doesn't already exist in the map, then store it with it's corresponding index
-* but if sum !=0 and sum already exists in the map then, dependig on whether i - m\[sum\] &gt; LongestContArray, update LongestContArray
-* Note we need to store a unique sum value only once, after that whenever we encounter the same sum again our interval length is going to increase only and that is what we want ex- \[1,0,1,0,1\] we get sum = 1 three times we store sum = 1 for index = 0 only and never update it as we want longest length
+* but if sum!=0 and this sum doesn't already exist in the map, then store it with its corresponding index
+* but if sum !=0 and sum already exists in the map then, depending on whether i - m\[sum\] &gt; LongestContArray, update LongestContArray
+* Note we need to store a unique sum value only once, after that whenever we encounter the same sum again our interval length is going to increase only and that is what we want ex- \[1,0,1,0,1\] we get sum = 1 three times we store sum = 1 for index = 0 only and never update it as we want the longest length.
 {% endhint %}
 
 {% tabs %}
