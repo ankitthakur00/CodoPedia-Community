@@ -14,9 +14,13 @@ What is the angle between hands at 10:20?
 4. 160
 
 {% hint style="success" %}
+**Ans: 190**
+
 At 10:20 the minute hand is at 4 and it makes an angle of 4\*30 = 120 deg from 12.
 
-At 10:20 the hour hand is between 10 and 11 and it makes an angle of 10_30+ 20_30/60 = 300+10 = 310 deg from 12.
+At 10:20 the hour hand is between 10 and 11 and it makes an angle of 
+
+10**\***_30+ \(20\*_30\)/60 = 300+10 = 310 deg from 12.
 
 At 10:20 the minute and the hour hands make an angle of 310–120 = 190 deg between them.
 {% endhint %}
@@ -59,7 +63,7 @@ Given a binary array, find the maximum length of a contiguous subarray with an e
 {% hint style="success" %}
 1. Starting from left of array and keep adding elements to a variable **sum**
 2. Add **-1 for 0** and **1 for 1**
-3. Now, everytime sum becomes zero, we know all the elements from begining of array have been neutralized , meaning we have got equal number of ones and zeroes, let this occurs at index i, so longestContArray = i+1 \('coz w're dealing with indices\)
+3. Now, everytime sum becomes zero, we know all the elements from begining of array have been neutralized , meaning we have got equal number of ones and zeroes, let this occurs at index i, so longestContArray = i+1 \(because we are dealing with indices\)
 4. But we are not done yet!, consider the case : \[1,**1,0**,1,1\]
 
 * In this case sum will never become zero,
