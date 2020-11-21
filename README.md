@@ -6,7 +6,7 @@ description: A geek in need is a geek indeed.
 
 An initiative by a group of people from different NITs to make the placement season more transparent. Our vision is clear, to make our people more knowledgeable and placement ready.
 
-Join the **CodoPedia** Community
+
 
 ## RoadMap
 

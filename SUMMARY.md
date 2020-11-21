@@ -28,10 +28,12 @@
 ## Blog
 
 * [Tricky Puzzle \(12 Balls\)](blog/tricky-puzzle-1-12-balls.md)
-* [The Art of Resume Building](blog/the-art-of-resume-building.md)
 
 ---
 
-* [Join the Community](http://t.me/codopedia)
-* [Got something to say or suggest ? Click here !](https://docs.google.com/forms/d/e/1FAIpQLSeXCU0-wiBv5H9IvSqbOaG1JzrfYaqJPCE8UQYuPVHgeIf66g/viewform)
+* [CodoPedia Website](https://www.codopedia.in)
+* [Join the Community on Telegram](http://t.me/codopedia)
+* [CodoPedia on YouTube](https://www.youtube.com/channel/UC4ba8-1YewpAJnU-Rp4Z2Gg?sub_confirmation=1)
+* [CodoPedia Blog](https://blog.codopedia.in)
+* [Got something to say or suggest ? Click here !](https://docs.google.com/forms/d/e/1FAIpQLSenvXTzuX8RWRDxY1m9gX_p28JlHY_02v4UXbnWdH1gP1jHyg/viewform)
 
