@@ -45,12 +45,6 @@ A red black tree has the property that there are no 2 reds in a row. Considering
 Explanation : [http://andrew-exercise.blogspot.com/2015/11/algorithms-design-and-analysis-part-1\_75.html?m=1](http://andrew-exercise.blogspot.com/2015/11/algorithms-design-and-analysis-part-1_75.html?m=1)
 {% endhint %}
 
-
-
-
-
-Every Binary search tree can be turned into a relaxed red black tree.
-
 ## Coding Question
 
  Given a n x n matrix where each of the rows and columns are sorted in ascending order, find the kth smallest element in the matrix.  
