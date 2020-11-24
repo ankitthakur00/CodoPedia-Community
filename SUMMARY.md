@@ -26,6 +26,7 @@
 * [Day 20: Tasks](daily-tasks/day-20-tasks.md)
 * [Day 21 : Tasks](daily-tasks/day-21-tasks.md)
 * [Day 22 : Tasks](daily-tasks/day-22-tasks.md)
+* [Day 23 : Tasks](daily-tasks/day-23-tasks.md)
 
 ## Blog
 
