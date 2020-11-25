@@ -31,7 +31,7 @@ Sarah, Glen, Rita, Monica, Natalie, and Ana are 6 best friends who had gone out 
 * Can be in public or private part
 
 {% hint style="success" %}
-
+**Ans:** Can be in public or private part
 {% endhint %}
 
 ## Coding Question
