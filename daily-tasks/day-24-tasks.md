@@ -67,39 +67,41 @@ int *in, *low, *visited;
 vector<int> *adj;
 int timer = 1;
 void dfs(int node, int parent){
-in[node] = low[node] = timer;
-visited[node] = 1;
-timer++;
-for(int child: adj[node])
+    in[node] = low[node] = timer;
+    visited[node] = 1;
+    timer++;
+    for(int child: adj[node])
+    {
+        if(child == parent) continue;
+        if(visited[child] == 1)
+        low[node] = min(low[node], low[child]);
+        else{dfs(child, node);
+        low[node] = min(low[node], low[child]);
+        if(in[node] < low[child])
+        {
+            ans.push_back({node+1, child+1});
+        }
+    }
+}
+vector<pair<int,int>> criticalConnections(int n, int edges, vector<pair<int,int>>& connections) 
 {
-if(child == parent) continue;
-if(visited[child] == 1)
-low[node] = min(low[node], low[child]);
-else{dfs(child, node);
-low[node] = min(low[node], low[child]);
-if(in[node] < low[child])
-{
-ans.push_back({node+1, child+1});
-}
-}
-}
-}
-vector<pair<int,int>> criticalConnections(int n, int edges, vector<pair<int,int>>& connections) {
-adj = new vector<int>[n];
-for(int i=0; i<connections.size(); i++)
-{
-int a = connections[i].first-1, b = connections[i].second-1;
-adj[a].push_back(b);
-adj[b].push_back(a);
-}
-ans.clear();
-in = new int[n];
-low = new int[n];
-visited = new int[n];
-for(int i=0; i<n; i++) visited[i] = 0;
-timer = 0;
-dfs(0, -1);
-return ans;
+    adj = new vector<int>[n];
+    for(int i=0; i<connections.size(); i++)
+    {
+        int a = connections[i].first-1;
+        int b = connections[i].second-1;
+        adj[a].push_back(b);
+        adj[b].push_back(a);
+    }
+    ans.clear();
+    in = new int[n];
+    low = new int[n];
+    visited = new int[n];
+    for(int i=0; i<n; i++) 
+    visited[i] = 0;
+    timer = 0;
+    dfs(0, -1);
+    return ans;
 }
 ```
 
