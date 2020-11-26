@@ -28,6 +28,7 @@
 * [Day 22 : Tasks](daily-tasks/day-22-tasks.md)
 * [Day 23 : Tasks](daily-tasks/day-23-tasks.md)
 * [Day 24 : Tasks](daily-tasks/day-24-tasks.md)
+* [Day 25 : Tasks](daily-tasks/day-25-tasks.md)
 
 ## Blog
 
