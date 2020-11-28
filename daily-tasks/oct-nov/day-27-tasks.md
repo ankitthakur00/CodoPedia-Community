@@ -26,6 +26,24 @@ To obtain a 25% alcohol mixture, X & Y are to be mixed in ratio 5:15 = 1:3
 X is already 200ml, so Y should be 200\*3 = 600
 {% endhint %}
 
+## **Technical MCQ**
+
+Which normal form is a table "customer" in . if it has following characteristics ?  
+It has transitive dependencies   
+There are no partial Dependencies in it  
+There is no column with redundancy in it
+
+* 1NF
+* 2NF
+* 3NF
+* BCNF
+
+{% hint style="success" %}
+**Ans :** 2NF
+{% endhint %}
+
+
+
 ## Coding Question
 
 Given an array of integers A of size N and an integer B.  
