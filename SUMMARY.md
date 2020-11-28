@@ -5,6 +5,7 @@
 ## Daily Tasks
 
 * [Oct - Nov Daily Tasks](daily-tasks/oct-nov/README.md)
+  * [Day 27 : Tasks](daily-tasks/oct-nov/day-27-tasks.md)
   * [Day 26 : Tasks](daily-tasks/oct-nov/day-26-tasks.md)
   * [Day 25 : Tasks](daily-tasks/oct-nov/day-25-tasks.md)
   * [Day 24 : Tasks](daily-tasks/oct-nov/day-24-tasks.md)
