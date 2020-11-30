@@ -50,7 +50,7 @@ An Array of structures is stored in:
 
 ## Coding Question
 
-One day Neelu visited a magical place. There she got a die and a magic sequence S of length n. After inspecting the magic sequence, she decided to generate a sequence A so she rolled the die n times and wrote the numbers she got on die. She found that some of the characters were missing from the magic sequence. The magic sequence contained only Ls and Rs. The missing characters in the magic sequence were replaced with question mark\(?\) symbols.
+One day Neelu visited a magical place. There she got a die and a magic sequence S of length n. After inspecting the magic sequence, she decided to generate  sequence A so she rolled the die n times and wrote the numbers she got on die. She found that some of the characters were missing from the magic sequence. The magic sequence contained only Ls and Rs. The missing characters in the magic sequence were replaced with question mark\(?\) symbols.
 
 Neelu decided to use sequence A and magic sequence S to start her journey from her home. She moves A\[i\] units left if S\[i\] is L or A\[i\] units right if S\[i\] is R. She wants to go as far as possible from her home.
 
@@ -61,13 +61,20 @@ S contains only 'L', 'R' or '?'.
 **`Input:`** 
 
 ```text
-0 2 3 3 2 5 L?R 2 1 2 RL
+2 
+3 
+3 2 5 
+L?R 
+2 
+1 2 
+RL
 ```
 
 **`Output:`** 
 
 ```text
-0 4 1
+4 
+1
 ```
 
 **`Explanation:`**In the first test case, the second character of the magic sequence is '?'. If we replace it with 'L', she moves 5 units left then 5 units right hence she is at her home at the end of her journey. If we replace it with 'R' then she moves 3 units left and then 7 units right hence her distance from her home is 4 at the end of her journey. Replacing '?' with 'R' gives the maximum distance. In the second test case, she moves 1 unit right and then 2 units left hence she is at 1 unit distance from her home at the end.
