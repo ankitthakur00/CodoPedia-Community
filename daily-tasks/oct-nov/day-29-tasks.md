@@ -45,7 +45,7 @@ An Array of structures is stored in:
 * Stack
 
 {% hint style="success" %}
-
+**Ans:** Adjacent memory location
 {% endhint %}
 
 ## Coding Question
