@@ -5,6 +5,7 @@
 ## Daily Tasks
 
 * [December Daily Tasks](daily-tasks/dec/README.md)
+  * [Day 7: Tasks](daily-tasks/dec/day-7-tasks.md)
   * [Day 6: Tasks](daily-tasks/dec/day-6-tasks.md)
   * [Day 5: Tasks](daily-tasks/dec/day-5-tasks.md)
   * [Day 4 : Tasks](daily-tasks/dec/day-4-tasks.md)
