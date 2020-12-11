@@ -6,7 +6,7 @@ description: 'Date : 11 December 2020'
 
 ## Aptitude
 
-Anish had a certain amount with him. He spent 20% of that to buy a new cell phone and 15% of the remaining on buying a laptop. Then he donated Rs. 160 in a temple. If he is left with Rs. 1,200, how much did he buy the laptop for? \]
+Anish had a certain amount with him. He spent 20% of that to buy a new cell phone and 15% of the remaining on buying a laptop. Then he donated Rs. 160 in a temple. If he is left with Rs. 1,200, how much did he buy the laptop for? 
 
 * 220
 * 240
@@ -51,7 +51,7 @@ Now, the amount he buy the laptop for = Rs. 3x/25 = \(3  2000\)/25 = 3 \* 80 = *
 
 ## Technical MCQ
 
-Which of the following type of class allows only one object of it to be created? \]
+Which of the following type of class allows only one object of it to be created? 
 
 * Virtual class
 * Abstract Class
@@ -96,7 +96,7 @@ Output:
 false 
 ```
 
-**Explanation:** The robot moves left twice. It ends up two "moves" to the left of the origin. We return false because it is not at the origin at the end of its moves.
+**Explanation:** The robot moves left twice. It ends up with two "moves" to the left of the origin. We return false because it is not at the origin at the end of its moves.
 
 ### Solution :
 
