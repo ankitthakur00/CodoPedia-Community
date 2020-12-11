@@ -59,9 +59,11 @@ Which of the following type of class allows only one object of it to be created?
 * Friend class
 
 {% hint style="success" %}
-**Ans:** \(b\) Scheduler process
+**Ans:** \(c\) Singleton class
 
-**Explanation:** The Scheduler process does not interrupt any running process. Its job is to select the processes for long-term, short-term, and short-term scheduler.
+**Explanation:** Singleton is a design pattern. It ensures that only one instance of a class is created.
+
+Read More [https://www.programiz.com/java-programming/singleton](https://www.programiz.com/java-programming/singleton)
 {% endhint %}
 
 ## Coding 
