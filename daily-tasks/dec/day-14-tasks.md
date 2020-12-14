@@ -6,8 +6,6 @@ description: 'Date : 14 December 2020'
 
 ## Aptitude
 
-
-
 Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour? 
 
 * 9
