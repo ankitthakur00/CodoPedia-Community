@@ -32,7 +32,7 @@ Which of the following is not true about single-row subqueries?
 * Single row subqueries return one row from the inner SELECT statement.
 * Single row subqueries return one row from the outer SELECT statement.
 * Single row subqueries use single row comparison operators
-* All of the abov**`e`**
+* All of the abov**e**
 
 {% hint style="success" %}
 **Ans:** Single row subqueries return one row from the outer SELECT statement.
