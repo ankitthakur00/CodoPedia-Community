@@ -2,7 +2,7 @@
 description: 26-12-2020
 ---
 
-# Day 25 : Tasks
+# Day 26 : Tasks
 
 ## Aptitude
 
