@@ -4,8 +4,8 @@
 
 ## Daily Tasks
 
-* [January Daily Tasks](daily-tasks/january-daily-tasks/README.md)
-  * [Day 2 : Tasks](daily-tasks/january-daily-tasks/day-2-tasks.md)
+* [January Daily Tasks](daily-tasks/jan/README.md)
+  * [Day 2 : Tasks](daily-tasks/jan/day-2-tasks.md)
 * [December Daily Tasks](daily-tasks/dec/README.md)
   * [Day 31: Tasks](daily-tasks/dec/day-31-tasks.md)
   * [Day 30 : Tasks](daily-tasks/dec/day-30-tasks.md)
