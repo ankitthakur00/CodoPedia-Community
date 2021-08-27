@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CodoPedia](README.md)
+* [Untitled](README.md)
 
 ## Daily Tasks
 
@@ -76,6 +76,10 @@
   * [Day 2 : Tasks](daily-tasks/oct-dec/day2-l-tasks.md)
   * [Day 1: Tasks](daily-tasks/oct-dec/day-1-tasks.md)
 
+## DSA Questions Curated List <a id="dsa-curated-list"></a>
+
+* [Day 1](dsa-curated-list/dsa-question-list.md)
+
 ## Blog
 
 * [Tricky Puzzle \(12 Balls\)](blog/tricky-puzzle-1-12-balls.md)
@@ -87,8 +91,4 @@
 * [CodoPedia on YouTube](https://www.youtube.com/channel/UC4ba8-1YewpAJnU-Rp4Z2Gg?sub_confirmation=1)
 * [CodoPedia Blog](https://blog.codopedia.in)
 * [Got something to say or suggest ? Click here !](https://docs.google.com/forms/d/e/1FAIpQLSenvXTzuX8RWRDxY1m9gX_p28JlHY_02v4UXbnWdH1gP1jHyg/viewform)
-
-## Curated List
-
-* [DSA Question List](curated-list/dsa-question-list.md)
 
