@@ -1,8 +1,14 @@
 # Day 1
 
+* [ ] [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+* [ ] [Rotate Array](https://leetcode.com/problems/rotate-array)
+
+  |  |
+  | :--- |
 
 
-| [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) |
+
+|  |
 | :--- |
 | \*\*\*\*[**Rotate Array**](https://leetcode.com/problems/rotate-array)\*\*\*\* |
 | \*\*\*\*[**Relatively prime**](https://codeforces.com/problemset/problem/1051/B)\*\*\*\* |
