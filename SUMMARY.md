@@ -88,3 +88,7 @@
 * [CodoPedia Blog](https://blog.codopedia.in)
 * [Got something to say or suggest ? Click here !](https://docs.google.com/forms/d/e/1FAIpQLSenvXTzuX8RWRDxY1m9gX_p28JlHY_02v4UXbnWdH1gP1jHyg/viewform)
 
+## Curated List
+
+* [DSA Question List](curated-list/dsa-question-list.md)
+
